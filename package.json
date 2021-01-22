@@ -1,0 +1,24 @@
+{
+  "name": "pficaptable",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^15.4.0",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanGeorgio/pficaptable.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanGeorgio/pficaptable/issues"
+  },
+  "homepage": "https://github.com/RenanGeorgio/pficaptable#readme"
+}
